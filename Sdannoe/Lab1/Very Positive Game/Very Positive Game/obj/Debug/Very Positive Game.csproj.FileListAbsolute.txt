@@ -1,0 +1,7 @@
+C:\Users\d0306\Documents\MyWorks\Very Positive Game\Very Positive Game\bin\Debug\Very Positive Game.exe.config
+C:\Users\d0306\Documents\MyWorks\Very Positive Game\Very Positive Game\bin\Debug\Very Positive Game.exe
+C:\Users\d0306\Documents\MyWorks\Very Positive Game\Very Positive Game\bin\Debug\Very Positive Game.pdb
+C:\Users\d0306\Documents\MyWorks\Very Positive Game\Very Positive Game\obj\Debug\Very Positive Game.csprojAssemblyReference.cache
+C:\Users\d0306\Documents\MyWorks\Very Positive Game\Very Positive Game\obj\Debug\Very Positive Game.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\MyWorks\Very Positive Game\Very Positive Game\obj\Debug\Very Positive Game.exe
+C:\Users\d0306\Documents\MyWorks\Very Positive Game\Very Positive Game\obj\Debug\Very Positive Game.pdb

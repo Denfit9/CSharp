@@ -1,0 +1,7 @@
+C:\Users\d0306\Documents\c#\Lab4\Lab4task2\Lab4task2complete\Lab4task2complete\bin\Debug\Lab4task2complete.exe.config
+C:\Users\d0306\Documents\c#\Lab4\Lab4task2\Lab4task2complete\Lab4task2complete\bin\Debug\Lab4task2complete.exe
+C:\Users\d0306\Documents\c#\Lab4\Lab4task2\Lab4task2complete\Lab4task2complete\bin\Debug\Lab4task2complete.pdb
+C:\Users\d0306\Documents\c#\Lab4\Lab4task2\Lab4task2complete\Lab4task2complete\obj\Debug\Lab4task2complete.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\c#\Lab4\Lab4task2\Lab4task2complete\Lab4task2complete\obj\Debug\Lab4task2complete.exe
+C:\Users\d0306\Documents\c#\Lab4\Lab4task2\Lab4task2complete\Lab4task2complete\obj\Debug\Lab4task2complete.pdb
+C:\Users\d0306\Documents\c#\Lab4\Lab4task2\Lab4task2complete\Lab4task2complete\obj\Debug\Lab4task2complete.csprojAssemblyReference.cache

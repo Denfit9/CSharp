@@ -1,0 +1,7 @@
+C:\Users\d0306\Documents\c#\Lab6fixed\Lab6fixed\Lab6fixed\bin\Debug\Lab6fixed.exe.config
+C:\Users\d0306\Documents\c#\Lab6fixed\Lab6fixed\Lab6fixed\bin\Debug\Lab6fixed.exe
+C:\Users\d0306\Documents\c#\Lab6fixed\Lab6fixed\Lab6fixed\bin\Debug\Lab6fixed.pdb
+C:\Users\d0306\Documents\c#\Lab6fixed\Lab6fixed\Lab6fixed\obj\Debug\Lab6fixed.csprojAssemblyReference.cache
+C:\Users\d0306\Documents\c#\Lab6fixed\Lab6fixed\Lab6fixed\obj\Debug\Lab6fixed.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\c#\Lab6fixed\Lab6fixed\Lab6fixed\obj\Debug\Lab6fixed.exe
+C:\Users\d0306\Documents\c#\Lab6fixed\Lab6fixed\Lab6fixed\obj\Debug\Lab6fixed.pdb

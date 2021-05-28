@@ -1,0 +1,14 @@
+C:\Users\d0306\Documents\c#\Lab2\Lab2task3(8)\Lab2Task3(8)\Lab2Task3(8)\bin\Debug\Lab2Task3(8).exe.config
+C:\Users\d0306\Documents\c#\Lab2\Lab2task3(8)\Lab2Task3(8)\Lab2Task3(8)\bin\Debug\Lab2Task3(8).exe
+C:\Users\d0306\Documents\c#\Lab2\Lab2task3(8)\Lab2Task3(8)\Lab2Task3(8)\bin\Debug\Lab2Task3(8).pdb
+C:\Users\d0306\Documents\c#\Lab2\Lab2task3(8)\Lab2Task3(8)\Lab2Task3(8)\obj\Debug\Lab2Task3(8).csprojAssemblyReference.cache
+C:\Users\d0306\Documents\c#\Lab2\Lab2task3(8)\Lab2Task3(8)\Lab2Task3(8)\obj\Debug\Lab2Task3(8).csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\c#\Lab2\Lab2task3(8)\Lab2Task3(8)\Lab2Task3(8)\obj\Debug\Lab2Task3(8).exe
+C:\Users\d0306\Documents\c#\Lab2\Lab2task3(8)\Lab2Task3(8)\Lab2Task3(8)\obj\Debug\Lab2Task3(8).pdb
+C:\Users\d0306\Documents\GitHub\C_Sharp_Lab2_Task3-8-\Lab2Task3(8)\Lab2Task3(8)\bin\Debug\Lab2Task3(8).exe.config
+C:\Users\d0306\Documents\GitHub\C_Sharp_Lab2_Task3-8-\Lab2Task3(8)\Lab2Task3(8)\bin\Debug\Lab2Task3(8).exe
+C:\Users\d0306\Documents\GitHub\C_Sharp_Lab2_Task3-8-\Lab2Task3(8)\Lab2Task3(8)\bin\Debug\Lab2Task3(8).pdb
+C:\Users\d0306\Documents\GitHub\C_Sharp_Lab2_Task3-8-\Lab2Task3(8)\Lab2Task3(8)\obj\Debug\Lab2Task3(8).csprojAssemblyReference.cache
+C:\Users\d0306\Documents\GitHub\C_Sharp_Lab2_Task3-8-\Lab2Task3(8)\Lab2Task3(8)\obj\Debug\Lab2Task3(8).csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\GitHub\C_Sharp_Lab2_Task3-8-\Lab2Task3(8)\Lab2Task3(8)\obj\Debug\Lab2Task3(8).exe
+C:\Users\d0306\Documents\GitHub\C_Sharp_Lab2_Task3-8-\Lab2Task3(8)\Lab2Task3(8)\obj\Debug\Lab2Task3(8).pdb
