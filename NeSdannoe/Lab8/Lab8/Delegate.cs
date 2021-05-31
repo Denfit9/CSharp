@@ -12,7 +12,6 @@ namespace Lab8
         public event Message notify;
         public event Message notify1;
         public int Payment { get; private set; }
-     //   public int Oplata1 { get; private set; }
         public Delegate(int m)
         {
             Payment = m;
